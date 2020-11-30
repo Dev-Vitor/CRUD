@@ -3,19 +3,19 @@
 
 # To running this API in your computer
 
-# Install the dependencies
+## Install the dependencies
 ### npm install
 
-# You will need to have the MongoDB running
+## You will need to have the MongoDB running
 ### mongod
 
-# Create the .env file and add the variables:
+## Create the .env file and add the variables:
 ### PORT
 ### MONGO_URL
 ### JWT_SECRET_KEY
 ### JWT_SECRET_ADMIN_KEY
 
-# ROUTES
+## ROUTES
 
 ### GET- / - It's main
 ### POST- /add - It's for create a new user
